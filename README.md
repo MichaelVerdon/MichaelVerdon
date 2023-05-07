@@ -14,6 +14,22 @@ I am a third year MEng Computer Science student attending the University of Port
 - Backend Development 🧮
 - Mobile Development 📱
 
+## Languages
+
+- Python
+- Dart
+- Java
+- Haskell
+- C++
+- SQL
+- Matlab
+
+## Software Commonly Used
+
+- VS Code
+- Adobe After Effects
+- Adobe XD
+
 <!--
 **MichaelVerdon/MichaelVerdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
