@@ -23,6 +23,7 @@ I am a third year MEng Computer Science student attending the University of Port
 - Haskell
 - C++
 - SQL
+- Lua
 - Matlab
 
 ## Software Commonly Used
