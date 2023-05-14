@@ -10,7 +10,6 @@ I am a third year MEng Computer Science student attending the University of Port
 ## Interests
 
 - Machine Learning 🧠
-- Full Stack 🖥️
 - Backend Development 👨🏻‍💻
 - Mobile Development 📱
 - Mathematics 🧮
