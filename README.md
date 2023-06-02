@@ -18,9 +18,9 @@ I am a third year MEng Computer Science student attending the University of Port
 
 - Python
 - Dart
+- C++
 - Java
 - Haskell
-- C++
 - SQL
 - Lua
 - Matlab
