@@ -16,9 +16,9 @@ I am a third year MEng Computer Science student attending the University of Port
 
 ## Languages
 
-- Python
-- Dart
+- Python (Most confidence)
 - C++
+- Dart
 - Java
 - Haskell
 - SQL
