@@ -14,16 +14,11 @@ I am a third year MEng Computer Science student attending the University of Port
 - Mobile Development 📱
 - Mathematics 🧮
 
-## Languages
+## Favourite Languages
 
 - Python
 - C++
 - Dart
-- Java
-- Haskell
-- SQL
-- Lua
-- Matlab
 
 ## Software Commonly Used
 
