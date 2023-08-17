@@ -3,7 +3,7 @@
 
 I am a third year MEng Computer Science student attending the University of Portsmouth.
 
-😄 Pronouns: He/Him/They/Them
+😄 Pronouns: He/They
 
 📫 How to reach me: mwverdon2000@gmail.com
 
@@ -23,6 +23,7 @@ I am a third year MEng Computer Science student attending the University of Port
 ## Software Commonly Used
 
 - VS Code
+- Visual Studio
 - Adobe After Effects
 - Adobe XD
 
