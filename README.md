@@ -1,7 +1,7 @@
 
 # Hi, i'm Michael 😵‍💫🚶‍♂️🥶
 
-I am a third year MEng Computer Science student attending the University of Portsmouth.
+I am a fourth year MEng Computer Science student attending the University of Portsmouth.
 
 😄 Pronouns: He/They
 
