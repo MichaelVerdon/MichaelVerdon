@@ -19,6 +19,7 @@ I am a fourth year MEng Computer Science student attending the University of Por
 - Python
 - C++
 - Dart
+- Javascript
 
 ## Software Commonly Used
 
