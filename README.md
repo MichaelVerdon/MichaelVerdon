@@ -5,7 +5,7 @@ I am a fourth year MEng Computer Science student attending the University of Por
 
 😄 Pronouns: He/They
 
-📫 How to reach me: mwverdon2000@gmail.com
+📫 How to reach me: verdonmw@gmail.com
 
 ## Interests
 
