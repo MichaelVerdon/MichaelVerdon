@@ -10,16 +10,17 @@ I am a fourth year MEng Computer Science student attending the University of Por
 ## Interests
 
 - Machine Learning 🧠
-- Backend Development 👨🏻‍💻
+- Full-Stack Development 👨🏻‍💻
 - Mobile Development 📱
 - Mathematics 🧮
 
 ## Favourite Languages
 
 - Python
+- Javascript/HTML/CSS
 - C++
 - Dart
-- Javascript
+
 
 ## Software Commonly Used
 
