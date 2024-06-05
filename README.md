@@ -29,7 +29,7 @@ I am a fourth year MEng Computer Science student attending the University of Por
 - Adobe After Effects
 - Adobe XD
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerdon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()
 
 <!--
 **MichaelVerdon/MichaelVerdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
