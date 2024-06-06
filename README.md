@@ -3,6 +3,8 @@
 
 I am a fourth year MEng Computer Science student attending the University of Portsmouth.
 
+[My Website](http://www.verdonmw.com)
+
 😄 Pronouns: He/They
 
 📫 How to reach me: verdonmw@gmail.com
