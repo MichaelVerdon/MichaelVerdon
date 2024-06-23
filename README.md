@@ -5,6 +5,8 @@ I am a fourth year MEng Computer Science student attending the University of Por
 
 [My Website](http://www.verdonmw.com)
 
+[Code Wars](https://www.codewars.com/users/MichaelVerdon)
+
 😄 Pronouns: He/They
 
 📫 How to reach me: verdonmw@gmail.com
