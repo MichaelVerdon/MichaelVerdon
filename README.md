@@ -1,7 +1,7 @@
 
 # Hi, i'm Michael 😵‍💫🚶‍♂️🥶
 
-I am a fourth year MEng Computer Science student attending the University of Portsmouth.
+I am an MENG Computer Science Graduate (First-Class) training at Makers Academy to be a Software Engineer.
 
 [My Website](http://www.verdonmw.com)
 
