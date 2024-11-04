@@ -1,7 +1,7 @@
 
 # Hi, i'm Michael 😵‍💫🚶‍♂️🥶
 
-I am an MENG Computer Science Graduate (Distinction) training at Makers Academy to be a Software Engineer.
+I am an MENG Computer Science Graduate (Distinction) and Maker's Academy graduate currently working at Invertase as a Junior Software Engineer.
 
 [My Website](http://www.verdonmw.com)
 
