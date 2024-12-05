@@ -1,11 +1,11 @@
 
 # Hi, i'm Michael 😵‍💫🚶‍♂️🥶
 
-I am an MENG Computer Science Graduate (Distinction) and Maker's Academy graduate currently working at Invertase as a Junior Software Engineer.
+Currently working as a Junior Software Engineer for Invertase
+
+Graduated with an MENG in Computer Science Graduate (Distinction) and from Maker's Academy.
 
 [My Website](http://www.verdonmw.com)
-
-[Code Wars](https://www.codewars.com/users/MichaelVerdon)
 
 😄 Pronouns: He/They
 
